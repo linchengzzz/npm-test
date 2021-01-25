@@ -1,0 +1,11 @@
+{
+  "name": "lcz-test-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linchengzzz<1139489076@qq.com>",
+  "license": "ISC"
+}
